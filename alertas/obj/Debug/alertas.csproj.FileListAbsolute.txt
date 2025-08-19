@@ -1,0 +1,10 @@
+C:\Users\victor.gpreviato\source\repos\alertas\bin\Debug\alertas.exe.config
+C:\Users\victor.gpreviato\source\repos\alertas\bin\Debug\alertas.exe
+C:\Users\victor.gpreviato\source\repos\alertas\bin\Debug\alertas.pdb
+C:\Users\victor.gpreviato\source\repos\alertas\obj\Debug\alertas.csproj.AssemblyReference.cache
+C:\Users\victor.gpreviato\source\repos\alertas\obj\Debug\alertas.Alertas.resources
+C:\Users\victor.gpreviato\source\repos\alertas\obj\Debug\alertas.Properties.Resources.resources
+C:\Users\victor.gpreviato\source\repos\alertas\obj\Debug\alertas.csproj.GenerateResource.cache
+C:\Users\victor.gpreviato\source\repos\alertas\obj\Debug\alertas.csproj.CoreCompileInputs.cache
+C:\Users\victor.gpreviato\source\repos\alertas\obj\Debug\alertas.exe
+C:\Users\victor.gpreviato\source\repos\alertas\obj\Debug\alertas.pdb
