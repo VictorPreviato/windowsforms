@@ -1,0 +1,10 @@
+C:\Users\victor.gpreviato\source\repos\calculadorasimples\bin\Debug\calculadorasimples.exe.config
+C:\Users\victor.gpreviato\source\repos\calculadorasimples\bin\Debug\calculadorasimples.exe
+C:\Users\victor.gpreviato\source\repos\calculadorasimples\bin\Debug\calculadorasimples.pdb
+C:\Users\victor.gpreviato\source\repos\calculadorasimples\obj\Debug\calculadorasimples.csproj.AssemblyReference.cache
+C:\Users\victor.gpreviato\source\repos\calculadorasimples\obj\Debug\calculadorasimples.frmCalculadoraSimples.resources
+C:\Users\victor.gpreviato\source\repos\calculadorasimples\obj\Debug\calculadorasimples.Properties.Resources.resources
+C:\Users\victor.gpreviato\source\repos\calculadorasimples\obj\Debug\calculadorasimples.csproj.GenerateResource.cache
+C:\Users\victor.gpreviato\source\repos\calculadorasimples\obj\Debug\calculadorasimples.csproj.CoreCompileInputs.cache
+C:\Users\victor.gpreviato\source\repos\calculadorasimples\obj\Debug\calculadorasimples.exe
+C:\Users\victor.gpreviato\source\repos\calculadorasimples\obj\Debug\calculadorasimples.pdb

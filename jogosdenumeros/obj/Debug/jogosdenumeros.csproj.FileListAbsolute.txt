@@ -1,0 +1,10 @@
+C:\Users\victor.gpreviato\source\repos\jogosdenumeros\bin\Debug\jogosdenumeros.exe.config
+C:\Users\victor.gpreviato\source\repos\jogosdenumeros\bin\Debug\jogosdenumeros.exe
+C:\Users\victor.gpreviato\source\repos\jogosdenumeros\bin\Debug\jogosdenumeros.pdb
+C:\Users\victor.gpreviato\source\repos\jogosdenumeros\obj\Debug\jogosdenumeros.csproj.AssemblyReference.cache
+C:\Users\victor.gpreviato\source\repos\jogosdenumeros\obj\Debug\jogosdenumeros.Properties.Resources.resources
+C:\Users\victor.gpreviato\source\repos\jogosdenumeros\obj\Debug\jogosdenumeros.csproj.GenerateResource.cache
+C:\Users\victor.gpreviato\source\repos\jogosdenumeros\obj\Debug\jogosdenumeros.csproj.CoreCompileInputs.cache
+C:\Users\victor.gpreviato\source\repos\jogosdenumeros\obj\Debug\jogosdenumeros.exe
+C:\Users\victor.gpreviato\source\repos\jogosdenumeros\obj\Debug\jogosdenumeros.pdb
+C:\Users\victor.gpreviato\source\repos\jogosdenumeros\obj\Debug\jogosdenumeros.frmJogodeNumeros.resources
