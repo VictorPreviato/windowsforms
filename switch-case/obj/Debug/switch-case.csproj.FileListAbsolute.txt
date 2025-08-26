@@ -1,0 +1,10 @@
+C:\Users\victor.gpreviato\source\repos\switch-case\bin\Debug\switch-case.exe.config
+C:\Users\victor.gpreviato\source\repos\switch-case\bin\Debug\switch-case.exe
+C:\Users\victor.gpreviato\source\repos\switch-case\bin\Debug\switch-case.pdb
+C:\Users\victor.gpreviato\source\repos\switch-case\obj\Debug\switch-case.csproj.AssemblyReference.cache
+C:\Users\victor.gpreviato\source\repos\switch-case\obj\Debug\switch_case.frmSwitch.resources
+C:\Users\victor.gpreviato\source\repos\switch-case\obj\Debug\switch_case.Properties.Resources.resources
+C:\Users\victor.gpreviato\source\repos\switch-case\obj\Debug\switch-case.csproj.GenerateResource.cache
+C:\Users\victor.gpreviato\source\repos\switch-case\obj\Debug\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\victor.gpreviato\source\repos\switch-case\obj\Debug\switch-case.exe
+C:\Users\victor.gpreviato\source\repos\switch-case\obj\Debug\switch-case.pdb

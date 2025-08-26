@@ -299,6 +299,7 @@
             // lblOperacao
             // 
             this.lblOperacao.AutoSize = true;
+            this.lblOperacao.BackColor = System.Drawing.Color.White;
             this.lblOperacao.Location = new System.Drawing.Point(12, 31);
             this.lblOperacao.Name = "lblOperacao";
             this.lblOperacao.Size = new System.Drawing.Size(0, 13);
