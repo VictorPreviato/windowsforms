@@ -1,0 +1,12 @@
+C:\Users\victor.gpreviato\source\repos\sidebar\bin\Debug\sidebar.exe.config
+C:\Users\victor.gpreviato\source\repos\sidebar\bin\Debug\sidebar.exe
+C:\Users\victor.gpreviato\source\repos\sidebar\bin\Debug\sidebar.pdb
+C:\Users\victor.gpreviato\source\repos\sidebar\obj\Debug\sidebar.csproj.AssemblyReference.cache
+C:\Users\victor.gpreviato\source\repos\sidebar\obj\Debug\sidebar.Form1.resources
+C:\Users\victor.gpreviato\source\repos\sidebar\obj\Debug\sidebar.Properties.Resources.resources
+C:\Users\victor.gpreviato\source\repos\sidebar\obj\Debug\sidebar.csproj.GenerateResource.cache
+C:\Users\victor.gpreviato\source\repos\sidebar\obj\Debug\sidebar.csproj.CoreCompileInputs.cache
+C:\Users\victor.gpreviato\source\repos\sidebar\obj\Debug\sidebar.exe
+C:\Users\victor.gpreviato\source\repos\sidebar\obj\Debug\sidebar.pdb
+C:\Users\victor.gpreviato\source\repos\sidebar\obj\Debug\sidebar.Form2.resources
+C:\Users\victor.gpreviato\source\repos\sidebar\obj\Debug\sidebar.Form3.resources
